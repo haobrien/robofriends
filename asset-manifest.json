@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/robofriends/static/css/main.302474e4.chunk.css",
-    "main.js": "/robofriends/static/js/main.c01f3caa.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.c01f3caa.chunk.js.map",
+    "main.js": "/robofriends/static/js/main.af78cbc9.chunk.js",
+    "main.js.map": "/robofriends/static/js/main.af78cbc9.chunk.js.map",
     "runtime-main.js": "/robofriends/static/js/runtime-main.de428e3a.js",
     "runtime-main.js.map": "/robofriends/static/js/runtime-main.de428e3a.js.map",
     "static/css/2.3b6f1bda.chunk.css": "/robofriends/static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.1bfa28a9.chunk.js": "/robofriends/static/js/2.1bfa28a9.chunk.js",
-    "static/js/2.1bfa28a9.chunk.js.map": "/robofriends/static/js/2.1bfa28a9.chunk.js.map",
+    "static/js/2.d794dbca.chunk.js": "/robofriends/static/js/2.d794dbca.chunk.js",
+    "static/js/2.d794dbca.chunk.js.map": "/robofriends/static/js/2.d794dbca.chunk.js.map",
     "index.html": "/robofriends/index.html",
-    "precache-manifest.d525af5e7b1574bb30a36b4310922fdb.js": "/robofriends/precache-manifest.d525af5e7b1574bb30a36b4310922fdb.js",
+    "precache-manifest.fc2d1f389cb111ece05504171ea88729.js": "/robofriends/precache-manifest.fc2d1f389cb111ece05504171ea88729.js",
     "service-worker.js": "/robofriends/service-worker.js",
     "static/css/2.3b6f1bda.chunk.css.map": "/robofriends/static/css/2.3b6f1bda.chunk.css.map",
     "static/css/main.302474e4.chunk.css.map": "/robofriends/static/css/main.302474e4.chunk.css.map",
-    "static/js/2.1bfa28a9.chunk.js.LICENSE.txt": "/robofriends/static/js/2.1bfa28a9.chunk.js.LICENSE.txt"
+    "static/js/2.d794dbca.chunk.js.LICENSE.txt": "/robofriends/static/js/2.d794dbca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.de428e3a.js",
     "static/css/2.3b6f1bda.chunk.css",
-    "static/js/2.1bfa28a9.chunk.js",
+    "static/js/2.d794dbca.chunk.js",
     "static/css/main.302474e4.chunk.css",
-    "static/js/main.c01f3caa.chunk.js"
+    "static/js/main.af78cbc9.chunk.js"
   ]
 }
